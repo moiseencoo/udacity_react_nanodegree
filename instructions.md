@@ -13,9 +13,6 @@ const users = {
     name: 'Jane Cruz',
     userName: 'coder',
   }
-  .
-  .
-  .
 };
 ```
 
@@ -28,9 +25,6 @@ const profiles = [
     userID: '1',
     favoriteMovieID: '1',
   },
-  .
-  .
-  .
 ];
 ```
 
